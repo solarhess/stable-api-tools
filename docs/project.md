@@ -1,13 +1,19 @@
 # To Do
 
 - [ ] Compatibility Checks
+  - [ ] Implement compatibility checker for basic OpenAPI 3 definitions
   - [ ] Implement multi-version api logic
-  - [ ] Implement compatibility checker for OpenAPI 3 definitions
   - [ ] Implement compatibility checker for Kubernetes CRD structures
 - [ ] Reverse Engineering
-  - [ ] Spring Boot + Web MVC
-  - [ ] Kubernetes + Operator development kit
+  - [ ] Java + Spring Boot + Web MVC
+  - [ ] Kubernetes client and operator development
   - [ ] Golang (What web frameworks are widely used?)
+  - [ ] NodeJS (What web frameworks are widely used?)
+- [ ] Code Generation
+  - [ ] Java + Spring Boot + Web MVC
+  - [ ] Kubernetes client and operator development
+  - [ ] Golang (What web frameworks are widely used?)
+  - [ ] NodeJS (What web frameworks are widely used?)
 
 # Contributing
 
