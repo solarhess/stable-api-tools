@@ -14,9 +14,6 @@ parts of maintaining a stable API contract. These include:
 [Project notes](docs/project.md) describes how to contribute and the plan
 to implement these features. 
 
-This project is Copyright (c) by Jonathan Hess <jonathan.hess@gmail.com> and is 
-licensed under the Apache 2.0 license. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
-
 ## Introduction 
 
 Compatibility between a service and its clients has been a hard problem from the moment there was
